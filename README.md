@@ -1,1 +1,6 @@
-# super-contador
+Calculadora contendo algumas operações. :balance_scale:
+
+
+
+
+
